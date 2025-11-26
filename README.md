@@ -1,2 +1,2 @@
 # Name
-My section is K25
+My section name is K25
